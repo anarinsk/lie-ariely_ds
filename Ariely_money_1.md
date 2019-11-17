@@ -36,6 +36,8 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 관련해서 2012년 복잡한 할인 관행을 폐지하고 가격 합리화를 내세웠던 JC 페니 백화점의 실패 사례를 소개한다. 사실 백화점 세일이라는 게 트릭이라는 것을 대부분이 다 안다. 세일 직전에 가격을 살짝 올려 할인 비율을 높인다. JC  페니의 새로운 사장으로 부임한 론 존슨은 이게 싫었다. 합리적이지 못했다. 가격을 합리화했다. 제각각의 비율을 지닌 할인 대신 그냥 적절한 수준의 가격을 처음부터 팔았다. 그런데 매출이 줄어들고 소비자들이 오히려 항의했다. 합리적인 가격 정책이 오히려 소비자에게 도움이 된다는 회사의 호소는 별 소용이 없었다. 사람들은 비교를 통해 안심과 위안을 얻는다. 그냥 처음부터 합리적인 가격은 불확실성의 여지를 남긴다. 하지만 70%라는 숫자는 해당 물건의 가치를 확실하게 보장한다. 
 
+
+
 ### 같은 액수라고 같은 액수처럼 느껴지지 않는다?
 
 땅을 파도 나오지 않는 것이 10 원이다. 돈은 소중하고 절대적인 듯싶지만, 사실 우리는 같은 액수를 같게 평가하지 않는다. 유명한 실험의 사례를 약간 변형해 소개한다. 10만 원 짜리 운동화를 사러 갔는데,  시내 어느 매장에 가면 2만원 싸게 살 수 있다고 하는 말을 듣게 되었다. 아마도 많은 이들이 2만 원을 아끼기 위해서 시내 매장을 방문하는 수고를 아까지 않을 것이다. 큰마음 먹고 이사한 집에 200만 원 짜리 근사한 거실 탁자를 구입하러 갔다. 운동화 구입과 비슷하게 시내 매장에 가면 198만 원에 살 수 있다는 이야기를 듣는다. 적어도 나는 '뭐 가격 차이도 별로 없으니 여기서 사야지'라고 생각할 것이다. 
@@ -65,8 +67,8 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com), written with [StackEdit](https://stackedit.io/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzk0MzU3MDgsMTM1Njg0NTg3MiwtMj
-AyODkxNjU3MCwtMjc1MTIwODA5LDEzNTY4NDU4NzIsMzEwMjky
-MjA4LDEzNTY4NDU4NzIsMzEwMjkyMjA4LDEzNTY4NDU4NzJdfQ
-==
+eyJoaXN0b3J5IjpbNjYzODIxOTI4LC0xMzc5NDM1NzA4LDEzNT
+Y4NDU4NzIsLTIwMjg5MTY1NzAsLTI3NTEyMDgwOSwxMzU2ODQ1
+ODcyLDMxMDI5MjIwOCwxMzU2ODQ1ODcyLDMxMDI5MjIwOCwxMz
+U2ODQ1ODcyXX0=
 -->
