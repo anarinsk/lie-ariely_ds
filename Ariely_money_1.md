@@ -62,12 +62,13 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
-<div **w3-include-html**="content.html"></div>
+<div **w3-include-html**="https://github.com/anarinsk
+/anarinsk.github.io/blob/master/adsense.html"></div>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3MzQxNzAzLC0xODk4ODQ0ODEzLDExOD
-A0NzQ5MzUsNjYzODIxOTI4LC0xMzc5NDM1NzA4LDEzNTY4NDU4
-NzIsLTIwMjg5MTY1NzAsLTI3NTEyMDgwOSwxMzU2ODQ1ODcyLD
-MxMDI5MjIwOCwxMzU2ODQ1ODcyLDMxMDI5MjIwOCwxMzU2ODQ1
-ODcyXX0=
+eyJoaXN0b3J5IjpbLTI3MTQ2NzMwMSwtMTg5ODg0NDgxMywxMT
+gwNDc0OTM1LDY2MzgyMTkyOCwtMTM3OTQzNTcwOCwxMzU2ODQ1
+ODcyLC0yMDI4OTE2NTcwLC0yNzUxMjA4MDksMTM1Njg0NTg3Mi
+wzMTAyOTIyMDgsMTM1Njg0NTg3MiwzMTAyOTIyMDgsMTM1Njg0
+NTg3Ml19
 -->
