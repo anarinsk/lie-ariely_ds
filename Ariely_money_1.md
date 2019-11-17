@@ -9,11 +9,11 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 * 그냥 그렇게 봐주시기를. 
 
 <ins class="adsbygoogle"  
-style="display:block; text-align:center;"  
-data-ad-layout="in-article"  
-data-ad-format="fluid"  
-data-ad-client="ca-pub-5998015764378916"  
-data-ad-slot="8073142933"></ins>
+  style="display:block; text-align:center;"  
+  data-ad-layout="in-article"  
+  data-ad-format="fluid"  
+  data-ad-client="ca-pub-5998015764378916"  
+  data-ad-slot="8073142933"></ins>
 
 ## 도대체 기회비용이란 무엇인가? 
 
@@ -69,9 +69,9 @@ data-ad-slot="8073142933"></ins>
 
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzIwMjQxNCwxMjk0NzM0Mjg3LC0yNz
-E0NjczMDEsLTE4OTg4NDQ4MTMsMTE4MDQ3NDkzNSw2NjM4MjE5
-MjgsLTEzNzk0MzU3MDgsMTM1Njg0NTg3MiwtMjAyODkxNjU3MC
-wtMjc1MTIwODA5LDEzNTY4NDU4NzIsMzEwMjkyMjA4LDEzNTY4
-NDU4NzIsMzEwMjkyMjA4LDEzNTY4NDU4NzJdfQ==
+eyJoaXN0b3J5IjpbMTQ2NDAzMzEwLDEyOTQ3MzQyODcsLTI3MT
+Q2NzMwMSwtMTg5ODg0NDgxMywxMTgwNDc0OTM1LDY2MzgyMTky
+OCwtMTM3OTQzNTcwOCwxMzU2ODQ1ODcyLC0yMDI4OTE2NTcwLC
+0yNzUxMjA4MDksMTM1Njg0NTg3MiwzMTAyOTIyMDgsMTM1Njg0
+NTg3MiwzMTAyOTIyMDgsMTM1Njg0NTg3Ml19
 -->
