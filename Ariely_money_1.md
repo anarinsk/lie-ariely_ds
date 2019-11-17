@@ -8,19 +8,6 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 * 어찌보면 요약이고 어찌보면 잡설입니다. 
 * 그냥 그렇게 봐주시기를. 
 
-<div align="center">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-5998015764378916"
-     data-ad-slot="8073142933"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
 ## 도대체 기회비용이란 무엇인가? 
 
 "기회비용"에서 시작해보자. "경제학개론"을 들었다면, 아마 맨 처음 접한 개념일 터다. 모든 경제적 결정의 근간에는 기회비용이 있다. 기회비용은 여러 다른 표현으로 모습을 드러내고는 한다. "공짜 점심은 없다." 요컨대, 어떤 결정을 하면 그 결정으로 탓에 잃는 것이 있다. 그 잃어버리는 무엇이 기회비용이다.  
@@ -78,7 +65,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com), written with [StackEdit](https://stackedit.io/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjg5MTY1NzAsLTI3NTEyMDgwOSwxMz
-U2ODQ1ODcyLDMxMDI5MjIwOCwxMzU2ODQ1ODcyLDMxMDI5MjIw
-OCwxMzU2ODQ1ODcyXX0=
+eyJoaXN0b3J5IjpbMTM1Njg0NTg3MiwtMjAyODkxNjU3MCwtMj
+c1MTIwODA5LDEzNTY4NDU4NzIsMzEwMjkyMjA4LDEzNTY4NDU4
+NzIsMzEwMjkyMjA4LDEzNTY4NDU4NzJdfQ==
 -->
