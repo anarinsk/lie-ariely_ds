@@ -8,7 +8,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 * 어찌보면 요약이고 어찌보면 잡설입니다. 
 * 그냥 그렇게 봐주시기를. 
 
-</ins>
+<div
 
 ## 도대체 기회비용이란 무엇인가? 
 
@@ -67,7 +67,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com), written with [StackEdit](https://stackedit.io/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NTEyMDgwOSwxMzU2ODQ1ODcyLDMxMD
-I5MjIwOCwxMzU2ODQ1ODcyLDMxMDI5MjIwOCwxMzU2ODQ1ODcy
-XX0=
+eyJoaXN0b3J5IjpbLTEwMjQxMjczODMsLTI3NTEyMDgwOSwxMz
+U2ODQ1ODcyLDMxMDI5MjIwOCwxMzU2ODQ1ODcyLDMxMDI5MjIw
+OCwxMzU2ODQ1ODcyXX0=
 -->
