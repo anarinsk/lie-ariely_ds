@@ -36,7 +36,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 관련해서 2012년 복잡한 할인 관행을 폐지하고 가격 합리화를 내세웠던 JC 페니 백화점의 실패 사례를 소개한다. 사실 백화점 세일이라는 게 트릭이라는 것을 대부분이 다 안다. 세일 직전에 가격을 살짝 올려 할인 비율을 높인다. JC  페니의 새로운 사장으로 부임한 론 존슨은 이게 싫었다. 합리적이지 못했다. 가격을 합리화했다. 제각각의 비율을 지닌 할인 대신 그냥 적절한 수준의 가격을 처음부터 팔았다. 그런데 매출이 줄어들고 소비자들이 오히려 항의했다. 합리적인 가격 정책이 오히려 소비자에게 도움이 된다는 회사의 호소는 별 소용이 없었다. 사람들은 비교를 통해 안심과 위안을 얻는다. 그냥 처음부터 합리적인 가격은 불확실성의 여지를 남긴다. 하지만 70%라는 숫자는 해당 물건의 가치를 확실하게 보장한다. 
 
-
+<link rel="stylesheet" href="https://stackedit.io/style.css" />
 
 ### 같은 액수라고 같은 액수처럼 느껴지지 않는다?
 
@@ -67,8 +67,8 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com), written with [StackEdit](https://stackedit.io/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYzODIxOTI4LC0xMzc5NDM1NzA4LDEzNT
-Y4NDU4NzIsLTIwMjg5MTY1NzAsLTI3NTEyMDgwOSwxMzU2ODQ1
-ODcyLDMxMDI5MjIwOCwxMzU2ODQ1ODcyLDMxMDI5MjIwOCwxMz
-U2ODQ1ODcyXX0=
+eyJoaXN0b3J5IjpbMjEwNjM5MjkyMyw2NjM4MjE5MjgsLTEzNz
+k0MzU3MDgsMTM1Njg0NTg3MiwtMjAyODkxNjU3MCwtMjc1MTIw
+ODA5LDEzNTY4NDU4NzIsMzEwMjkyMjA4LDEzNTY4NDU4NzIsMz
+EwMjkyMjA4LDEzNTY4NDU4NzJdfQ==
 -->
