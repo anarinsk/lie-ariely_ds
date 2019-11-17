@@ -61,14 +61,10 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 불확실한 상황에서 결정을 하는 일은 어렵다. 지능이 높은 인간도 오래 고민해야 하는 계산을 요구한다. 그러면 이런 상황에서 평범한 인간은 어떻게 결정하는가? 아무것도 하지 않는 것보다는 최적이 아니지만 대체로 좋은 그런 만족할만한 지침을 따르는 것이 낫지 않을까? 허버트 사이먼이 말한 satisficing(= sacrifice + satisfy)이 바로 이런 어림짐작의 행동 지침을 통칭한다.
 
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
-
-<object data="html/stuff_to_include.html"> 
-   <link rel="https://github.com/anarinsk/anarinsk.github.io/blob/master/adsense.html" />  
-</object>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDczNDI4NywtMjcxNDY3MzAxLC0xOD
-k4ODQ0ODEzLDExODA0NzQ5MzUsNjYzODIxOTI4LC0xMzc5NDM1
-NzA4LDEzNTY4NDU4NzIsLTIwMjg5MTY1NzAsLTI3NTEyMDgwOS
-wxMzU2ODQ1ODcyLDMxMDI5MjIwOCwxMzU2ODQ1ODcyLDMxMDI5
-MjIwOCwxMzU2ODQ1ODcyXX0=
+eyJoaXN0b3J5IjpbMjEyNDIyNzI0MCwxMjk0NzM0Mjg3LC0yNz
+E0NjczMDEsLTE4OTg4NDQ4MTMsMTE4MDQ3NDkzNSw2NjM4MjE5
+MjgsLTEzNzk0MzU3MDgsMTM1Njg0NTg3MiwtMjAyODkxNjU3MC
+wtMjc1MTIwODA5LDEzNTY4NDU4NzIsMzEwMjkyMjA4LDEzNTY4
+NDU4NzIsMzEwMjkyMjA4LDEzNTY4NDU4NzJdfQ==
 -->
