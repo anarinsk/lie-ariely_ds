@@ -63,12 +63,12 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 <object data="html/stuff_to_include.html"> 
-   <link rel="stylesheet" href="https://stackedit.io/style.css" />  
+   <link rel="https://github.com/anarinsk/anarinsk.github.io/blob/master/adsense.html" />  
 </object>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2NTY1MDU1LC0yNzE0NjczMDEsLTE4OT
-g4NDQ4MTMsMTE4MDQ3NDkzNSw2NjM4MjE5MjgsLTEzNzk0MzU3
-MDgsMTM1Njg0NTg3MiwtMjAyODkxNjU3MCwtMjc1MTIwODA5LD
-EzNTY4NDU4NzIsMzEwMjkyMjA4LDEzNTY4NDU4NzIsMzEwMjky
-MjA4LDEzNTY4NDU4NzJdfQ==
+eyJoaXN0b3J5IjpbMTI5NDczNDI4NywtMjcxNDY3MzAxLC0xOD
+k4ODQ0ODEzLDExODA0NzQ5MzUsNjYzODIxOTI4LC0xMzc5NDM1
+NzA4LDEzNTY4NDU4NzIsLTIwMjg5MTY1NzAsLTI3NTEyMDgwOS
+wxMzU2ODQ1ODcyLDMxMDI5MjIwOCwxMzU2ODQ1ODcyLDMxMDI5
+MjIwOCwxMzU2ODQ1ODcyXX0=
 -->
