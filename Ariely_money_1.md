@@ -30,13 +30,13 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 [^1]: 번역서에는 "가치 단서"라고 번역했다. 뭔가 행동을 촉발하는 자극제 혹은 힌트 같은 뜻도 있다. 단서는 보통 추리와 연결되기 때문에 행동을 타내는 데에는 다소 정적인 느낌이다. 그렇다고 행동을 유발하는 신호, 자극 이렇게 쓰기에는 너무 말이 강하다. 사실 이런 작용이 대놓고 뭔가를 촉발하는 것도 아니다. 그래서 "가치 힌트"라고 쓸까 하다가 영어로 "guiding  suggestion"이라는 뜻풀이를 보게 되었다. 즉 일방적인 제시가 아니라 은근하게 던져지는 무엇이라는 뜻이다. 그래서 암시라고 일단 말을 다시 풀었다,
 
-흥미롭게도 일단 가치 신호가 인간에게 인지되고 수용되면 상당한 힘을 발휘한다. 뒤에서 다시 논할 테지만, 불확실한 상황에서 뭔가에 의지하려는 인간의 성향을 다니엘 카네먼과 아모스 트버스키는 "닻 내리기anchoring"이라고 통칭했다. 비교를 통해 기준이 조작되는 대표적인 두 사례는 할인의 마법과 동일 금액의 상대성이다. 각각 간략하게 살펴보자. 
+흥미롭게도 일단 가치 신호가 인간에게 인지되고 수용되면 상당한 힘을 발휘한다. 뒤에서 다시 논할 테지만 불확실한 상황에서 뭔가에 의지하려는 인간의 성향을 다니엘 카네먼과 아모스 트버스키는 "닻 내리기anchoring"라고 통칭했다. 비교를 통해 기준이 조작되는 대표적인 두 사례는 할인의 마법과 동일 금액의 상대성이다. 각각 간략하게 살펴보자. 
 
 ### Sale! 
 
  우리가 사랑하고 우리 주변에 언제나 존재하는 "세일"이 그렇게 작용한다. 우리는 원래 가격을 보지 않는다. 40%, 70%, 90%! 세일에서 마음을 사로잡는 것은 비율(%)이다. 
 
-관련해서 2012년 복잡한 할인 관행을 폐지하고 가격 합리화를 내세웠던 JC 페니 백화점의 실패 사례를 소개한다. 사실 백화점 세일이라는 게 트릭이라는 것을 대부분이 다 안다. 세일 직전에 가격을 살짝 올려 할인 비율을 높인다. JC  페니의 새로운 사장으로 부임한 론 존슨은 이게 싫었다. 합리적이지 못했다. 가격을 합리화했다. 제각각의 비율을 지닌 할인 대신 그냥 적절한 수준의 가격을 처음부터 팔았다. 그런데 매출이 줄어들고 소비자들이 오히려 항의했다. 합리적인 가격 정책이 오히려 소비자에게 도움이 된다는 회사의 호소는 별 소용이 없었다. 사람들은 비교를 통해 안심과 위안을 얻는다. 그냥 처음부터 합리적인 가격은 불확실성의 여지를 남긴다. 하지만 70%라는 숫자는 해당 물건의 가치를 확실하게 보장한다. 
+관련해서 2012년 복잡한 할인 관행을 폐지하고 가격 합리화를 내세웠던 JC 페니 백화점의 실패 사례를 소개한다. 사실 백화점 세일이라는 게 트릭이라는 것을 대부분이 다 안다. 세일 직전에 가격을 살짝 올려 할인 비율을 높인다. JC  페니의 새로운 사장으로 부임한 론 존슨은 이게 싫었다. 합리적이지 못했다. 가격을 합리화했다. 제각각의 비율을 지닌 할인 대신 처음부터 적절한 수준의 가격으로 팔았다. 그런데 매출이 줄어들고 소비자들이 오히려 항의했다. 합리적인 가격 정책이 오히려 소비자에게 도움이 된다는 회사의 읍소는 별 소용이 없었다. 사람들은 비교를 통해 안심과 위안을 얻는다. 그냥 처음부터 합리적인 가격은 불확실성의 여지를 남긴다. 하지만 70% 할인이라는 숫자는 해당 물건의 가치를 확실하게 보장한다. 
 
 ### 같은 액수라고 같은 액수처럼 느껴지지 않는다?
 
@@ -62,10 +62,10 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDYxMDA3LDIxMjQyMjcyNDAsMTQ2ND
-AzMzEwLDEyOTQ3MzQyODcsLTI3MTQ2NzMwMSwtMTg5ODg0NDgx
-MywxMTgwNDc0OTM1LDY2MzgyMTkyOCwtMTM3OTQzNTcwOCwxMz
-U2ODQ1ODcyLC0yMDI4OTE2NTcwLC0yNzUxMjA4MDksMTM1Njg0
-NTg3MiwzMTAyOTIyMDgsMTM1Njg0NTg3MiwzMTAyOTIyMDgsMT
-M1Njg0NTg3Ml19
+eyJoaXN0b3J5IjpbMTc4ODU1MzYzNSwyMTI0MjI3MjQwLDE0Nj
+QwMzMxMCwxMjk0NzM0Mjg3LC0yNzE0NjczMDEsLTE4OTg4NDQ4
+MTMsMTE4MDQ3NDkzNSw2NjM4MjE5MjgsLTEzNzk0MzU3MDgsMT
+M1Njg0NTg3MiwtMjAyODkxNjU3MCwtMjc1MTIwODA5LDEzNTY4
+NDU4NzIsMzEwMjkyMjA4LDEzNTY4NDU4NzIsMzEwMjkyMjA4LD
+EzNTY4NDU4NzJdfQ==
 -->
