@@ -40,7 +40,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 ### 같은 액수라고 같은 액수처럼 느껴지지 않는다?
 
-땅을 파도 나오지 않는 것이 10 원이다. 돈은 소중하고 절대적인 듯싶지만, 사실 우리는 같은 액수를 같게 평가하지 않는다. 유명한 실험의 사례를 약간 변형해 소개한다. 10만 원 짜리 운동화를 사러 갔는데,  시내 어느 매장에 가면 2만원 싸게 살 수 있다고 하는 말을 듣게 되었다. 아마도 많은 이들이 2만 원을 아끼기 위해서 시내 매장을 방문하는 수고를 아까지 않을 것이다. 큰마음 먹고 이사한 집에 200만 원 짜리 근사한 거실 탁자를 구입하러 갔다. 운동화 구입과 비슷하게 시내 매장에 가면 198만 원에 살 수 있다는 이야기를 듣는다. 적어도 나는 '뭐 가격 차이도 별로 없으니 여기서 사야지'라고 생각할 것이다. 
+땅을 파도 나오지 않는 것이 10 원이다. 돈은 소중하고 절대적인 듯 싶지만, 사실 우리는 같은 액수를 같게 평가하지 않는다. 유명한 실험의 사례를 약간 변형해 소개한다. 10만 원 짜리 운동화를 사러 갔는데,  시내 어느 매장에 가면 2만원 싸게 살 수 있다고 하는 말을 듣게 되었다. 아마도 많은 이들이 2만 원을 아끼기 위해서 시내 매장을 방문하는 수고를 아까지 않을 것이다. 큰마음 먹고 이사한 집에 200만 원 짜리 근사한 거실 탁자를 구입하러 갔다. 운동화 구입과 비슷하게 시내 매장에 가면 198만 원에 살 수 있다는 이야기를 듣는다. 적어도 나는 '뭐 가격 차이도 별로 없으니 여기서 사야지'라고 생각할 것이다. 
 
 같은 2만 원인데 왜 다르게 평가될까? 간단하다. 비교 기준이 다르기 때문이다. 우리의 마음은 2만 원이 아니라 2/10 = 20%와 2/200 = 1%를 비교하고 있기 때문이다. 이러한 비교 심리의 메커니즘이 덜 작동하는, 즉 이콘과 비슷하게 추론하고 행동하는 사람이 없는 것은 아니다. 그는 필시 경제학을 전공했을 뿐만 아니라 그 행동 원리를 온몸으로 체화한 이콘 그 자체이거나 혹은 매우 가난한 사람이다. 매우 가난한 사람은 자원의 절대치가 중요하다. 생존이 달린 문제이기 때문이다. 빈자가 돈의 가치를 주로 절대적인 기준에서 평가하는 것으로 알려져 있다. 
 
@@ -62,10 +62,10 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODU1MzYzNSwyMTI0MjI3MjQwLDE0Nj
-QwMzMxMCwxMjk0NzM0Mjg3LC0yNzE0NjczMDEsLTE4OTg4NDQ4
-MTMsMTE4MDQ3NDkzNSw2NjM4MjE5MjgsLTEzNzk0MzU3MDgsMT
-M1Njg0NTg3MiwtMjAyODkxNjU3MCwtMjc1MTIwODA5LDEzNTY4
-NDU4NzIsMzEwMjkyMjA4LDEzNTY4NDU4NzIsMzEwMjkyMjA4LD
-EzNTY4NDU4NzJdfQ==
+eyJoaXN0b3J5IjpbNTQwNzc2MjcxLDIxMjQyMjcyNDAsMTQ2ND
+AzMzEwLDEyOTQ3MzQyODcsLTI3MTQ2NzMwMSwtMTg5ODg0NDgx
+MywxMTgwNDc0OTM1LDY2MzgyMTkyOCwtMTM3OTQzNTcwOCwxMz
+U2ODQ1ODcyLC0yMDI4OTE2NTcwLC0yNzUxMjA4MDksMTM1Njg0
+NTg3MiwzMTAyOTIyMDgsMTM1Njg0NTg3MiwzMTAyOTIyMDgsMT
+M1Njg0NTg3Ml19
 -->
