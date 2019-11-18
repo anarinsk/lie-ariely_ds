@@ -26,7 +26,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 ## 내게 비교할 무엇을 다오  
 
-비교의 대상이 없을 때 쉽게 불확실성이 발생한다. 이 물건의 가치는 얼마나 될까? 비교는 물건의 가치는 파악하는 효과적인 지름길이다. 이것과 비교하기 위해서는 저것이 필요하다. 그리고 저것은 이것의 가치 판단에 영향을 끼치게 된다. 이때 이것의 원래 가치는 무엇일까? 비교를 참지 못하는 인간의 성향 때문에 이콘이라면 하지 않았던 불합리한 행위가 발생한다. 애리얼리는 저것, 즉 이것의 가치 판단에 영향을 주는 대상을 통칭해 가치 암시(value cue)라고 표현했다.[^1] 우리도 이 표현을 쓰기도 하자. 행동경제학의 중요한 한 부분은 이 가치신호가 이콘의 선택을 어떻게 교란하는지에 관한 우화의 집합이다. 
+비교의 대상이 없을 때 쉽게 불확실성이 발생한다. 이 물건의 가치는 얼마나 될까? 비교는 물건의 가치는 파악하는 효과적인 지름길이다. 이것과 비교하기 위해서는 저것이 필요하다. 그리고 저것은 이것의 가치 판단에 영향을 끼치게 된다. 이때 이것의 원래 가치는 무엇일까? 비교를 참지 못하는 인간의 성향 때문에 이콘이라면 하지 않았던 불합리한 행위가 발생한다. 애리얼리는 저것, 즉 이것의 가치 판단에 영향을 주는 대상을 통칭해 가치 암시(value cue)라고 표현했다.[^1] 우리도 이 표현을 쓰기도 하자. 행동경제학의 중요한 한 부분은 이 가치신호가 이콘의 선택을 어떻게 교란하는지에 관한 온갖 우화의 '집합'이다. 
 
 [^1]: 번역서에는 "가치 단서"라고 번역했다. 뭔가 행동을 촉발하는 자극제 혹은 힌트 같은 뜻도 있다. 단서는 보통 추리와 연결되기 때문에 행동을 타내는 데에는 다소 정적인 느낌이다. 그렇다고 행동을 유발하는 신호, 자극 이렇게 쓰기에는 너무 말이 강하다. 사실 이런 작용이 대놓고 뭔가를 촉발하는 것도 아니다. 그래서 "가치 힌트"라고 쓸까 하다가 영어로 "guiding  suggestion"이라는 뜻풀이를 보게 되었다. 즉 일방적인 제시가 아니라 은근하게 던져지는 무엇이라는 뜻이다. 그래서 암시라고 일단 말을 다시 풀었다,
 
@@ -62,10 +62,10 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTY1MjYxODksMjEyNDIyNzI0MCwxND
-Y0MDMzMTAsMTI5NDczNDI4NywtMjcxNDY3MzAxLC0xODk4ODQ0
-ODEzLDExODA0NzQ5MzUsNjYzODIxOTI4LC0xMzc5NDM1NzA4LD
-EzNTY4NDU4NzIsLTIwMjg5MTY1NzAsLTI3NTEyMDgwOSwxMzU2
-ODQ1ODcyLDMxMDI5MjIwOCwxMzU2ODQ1ODcyLDMxMDI5MjIwOC
-wxMzU2ODQ1ODcyXX0=
+eyJoaXN0b3J5IjpbMTM2NDYxMDA3LDIxMjQyMjcyNDAsMTQ2ND
+AzMzEwLDEyOTQ3MzQyODcsLTI3MTQ2NzMwMSwtMTg5ODg0NDgx
+MywxMTgwNDc0OTM1LDY2MzgyMTkyOCwtMTM3OTQzNTcwOCwxMz
+U2ODQ1ODcyLC0yMDI4OTE2NTcwLC0yNzUxMjA4MDksMTM1Njg0
+NTg3MiwzMTAyOTIyMDgsMTM1Njg0NTg3MiwzMTAyOTIyMDgsMT
+M1Njg0NTg3Ml19
 -->
