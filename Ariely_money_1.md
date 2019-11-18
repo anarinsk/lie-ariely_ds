@@ -22,7 +22,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 "귀차니즘"이 진화적으로 보면 합리적이다. 갑자기 눈앞에 어떤 물체가 다가왔을 때 그 물체가 나에게 위협이 될 것인지에 관해 확률 분포를 추정해 베이지언 계산을 거쳐 행동할 수도 있을 것이다. 원시인에게는 앱이 없었으니 두뇌로만 해야 한다! 하지만 당신이나 나는 일단 피하고 본다. 빡세게 머리를 굴리는 계산 비용을 치르는 대신 대신 뇌 혹은 마음 어딘가에 내장된 행동 모듈이 명령하는대로 일단 피한다. 그리고 이렇게 피하는 게 목숨을 부지하는 데 도움이 된다. 유구한 세월을 거친 진화의 역사를 통해 인간은 어려운 의사 결정의 순간 활용할 수 있는 "지름길(short-cut)" 혹은 "단축키"를 만들어 왔다. 애리얼리가 말하듯이 경제생활이라고 해서, 즉 돈이 개입되는 순간이라고 해서, 이런 마음의 단축키가 개입하지 않는다고 혹은 덜 개입한다고 단언할 수 있을까? 
 
-선택 혹은 결정에 "불확실성"이 드리우는 순간 이콘의 합리성이 빛을 잃기 쉽다. 확실한 상황일수록 계산가능성이 커지고 계산을 통해 보다 이익을 추구할 여지도 커진다. 하지만 불확실성이 존재하게 되면 이콘의 활동 폭이 좁아지고 때로는 아예 사라질 수도 있다. 이때 인간은 단축키를 찾게 된다. 그리고 우리가 이런 단축키를 누를 때 합리적인 기회비용으로 무장한 이콘이라면 안 했을 법한 행동을 선택한다. 행동경제학은 이렇게 탄생한다. 
+선택 혹은 결정에 "불확실성"이 드리우는 순간 이콘의 합리성이 빛을 잃기 쉽다. 확실한 상황일수록 계산가능성이 커지고 계산을 통해 이익을 추구할 여지도 커진다. 하지만 불확실성이 존재하게 되면 이콘의 활동 폭이 좁아지고 때로는 아예 사라질 수도 있다. 이때 인간은 단축키를 찾게 된다. 그리고 우리가 이런 단축키를 누를 때 합리적인 기회비용으로 무장한 이콘이라면 안 했을 법한 행동을 때로는 선택한다. 행동경제학은 이렇게 탄생한다. 
 
 ## 내게 비교할 무엇을 다오  
 
@@ -62,10 +62,10 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTcxNjA3OSwyMTI0MjI3MjQwLDE0Nj
-QwMzMxMCwxMjk0NzM0Mjg3LC0yNzE0NjczMDEsLTE4OTg4NDQ4
-MTMsMTE4MDQ3NDkzNSw2NjM4MjE5MjgsLTEzNzk0MzU3MDgsMT
-M1Njg0NTg3MiwtMjAyODkxNjU3MCwtMjc1MTIwODA5LDEzNTY4
-NDU4NzIsMzEwMjkyMjA4LDEzNTY4NDU4NzIsMzEwMjkyMjA4LD
-EzNTY4NDU4NzJdfQ==
+eyJoaXN0b3J5IjpbLTExMTY1MjYxODksMjEyNDIyNzI0MCwxND
+Y0MDMzMTAsMTI5NDczNDI4NywtMjcxNDY3MzAxLC0xODk4ODQ0
+ODEzLDExODA0NzQ5MzUsNjYzODIxOTI4LC0xMzc5NDM1NzA4LD
+EzNTY4NDU4NzIsLTIwMjg5MTY1NzAsLTI3NTEyMDgwOSwxMzU2
+ODQ1ODcyLDMxMDI5MjIwOCwxMzU2ODQ1ODcyLDMxMDI5MjIwOC
+wxMzU2ODQ1ODcyXX0=
 -->
