@@ -44,7 +44,7 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 같은 2만 원인데 왜 다르게 평가될까? 간단하다. 비교 기준이 다르기 때문이다. 우리의 마음은 2만 원이 아니라 2/10 = 20%와 2/200 = 1%를 비교하고 있기 때문이다. 이러한 비교 심리의 메커니즘이 덜 작동하는, 즉 이콘과 비슷하게 추론하고 행동하는 사람이 없는 것은 아니다. 그는 필시 경제학을 전공했을 뿐만 아니라 그 행동 원리를 온몸으로 체화한 이콘 그 자체이거나 혹은 매우 가난한 사람이다. 매우 가난한 사람은 자원의 절대치가 중요하다. 생존이 달린 문제이기 때문이다. 빈자가 돈의 가치를 주로 절대적인 기준에서 평가하는 것으로 알려져 있다. 
 
-## 불확실성 하에의 경제적 선택 
+## 불확실성 아래의 경제적 선택 
 
 이 점을 최초로 꿰뚫은 것은 노벨 경제학상을 받은 경제학자이자 인지과학자 허버트 사이먼이다. 컴퓨터 과학에도 일가견이 있던 그는 계산이라는 것이 비용이 드는 행위임을 잘 알고 있었다. 요즘이야 컴퓨터 자원이 그리 비싸지 않아 크게 실감을 못할지 모르겠다. 하지만 사이먼이 이른바 "제한적인 합리성"을 정식화했던 1950년대 만해도 컴퓨터의 계산력을 동원하는 비용이 상당했다. 
 
@@ -62,10 +62,10 @@ Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 
 :feet:Jun Sok Huhh | :house:[lostineconomics.com](http://lostineconomics.com)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQwNzc2MjcxLDIxMjQyMjcyNDAsMTQ2ND
-AzMzEwLDEyOTQ3MzQyODcsLTI3MTQ2NzMwMSwtMTg5ODg0NDgx
-MywxMTgwNDc0OTM1LDY2MzgyMTkyOCwtMTM3OTQzNTcwOCwxMz
-U2ODQ1ODcyLC0yMDI4OTE2NTcwLC0yNzUxMjA4MDksMTM1Njg0
-NTg3MiwzMTAyOTIyMDgsMTM1Njg0NTg3MiwzMTAyOTIyMDgsMT
-M1Njg0NTg3Ml19
+eyJoaXN0b3J5IjpbMTIwMzgxNjgxOSw1NDA3NzYyNzEsMjEyND
+IyNzI0MCwxNDY0MDMzMTAsMTI5NDczNDI4NywtMjcxNDY3MzAx
+LC0xODk4ODQ0ODEzLDExODA0NzQ5MzUsNjYzODIxOTI4LC0xMz
+c5NDM1NzA4LDEzNTY4NDU4NzIsLTIwMjg5MTY1NzAsLTI3NTEy
+MDgwOSwxMzU2ODQ1ODcyLDMxMDI5MjIwOCwxMzU2ODQ1ODcyLD
+MxMDI5MjIwOCwxMzU2ODQ1ODcyXX0=
 -->
